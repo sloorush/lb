@@ -1,0 +1,13 @@
+{
+  "name": "LB for APL",
+  "version": "0.1",
+  "description": "Get a APL language bar on any website.",
+
+  "browser_action": {
+    "default_title": "Whereami?",
+    "default_popup": "./index.html"
+  },
+  "permissions": ["activeTab"],
+
+  "manifest_version": 2
+}
