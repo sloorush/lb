@@ -1,0 +1,1 @@
+All the templates were originally written in https://github.com/abrudz/lb/blob/master/lb.js
